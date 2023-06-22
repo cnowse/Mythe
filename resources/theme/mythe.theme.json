@@ -4,13 +4,11 @@
   "dark": true,
   "editorScheme": "/theme/mythe.xml",
   "colors": {
-    "bg": "#181818",
-    "fg": "#dfe1e5"
+    "bg": "#181818"
   },
   "ui": {
     "*": {
-      "background": "bg",
-      "foreground": "fg"
+      "background": "bg"
     }
   }
 }
