@@ -1,0 +1,15 @@
+{
+  "name": "Mythe",
+  "author": "Jeong Geol",
+  "dark": true,
+  "editorScheme": "/theme/Mythe.xml",
+  "colors": {
+    "bg": "#010409"
+  },
+  "ui": {
+    "*": {
+      "background": "bg",
+      "inactiveBackground": "bg"
+    }
+  }
+}

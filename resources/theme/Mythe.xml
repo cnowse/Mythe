@@ -1,19 +1,19 @@
-<scheme name="mythe" version="142" parent_scheme="Darcula">
+<scheme name="Mythe" version="142" parent_scheme="Darcula">
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
     <option name="ANNOTATIONS_COLOR" value="8d9199" />
     <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="ced0d6" />
     <option name="CARET_COLOR" value="ced0d6" />
     <option name="CARET_ROW_COLOR" value="26282e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1f1f1f" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0d1117" />
     <option name="DELETED_LINES_COLOR" value="868a91" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2d30" />
-    <option name="DOCUMENTATION_COLOR" value="181818" />
+    <option name="DOCUMENTATION_COLOR" value="d1117" />
     <option name="DOC_COMMENT_GUIDE" value="394d3f" />
     <option name="DOC_COMMENT_LINK" value="3887a1" />
     <option name="ERROR_HINT" value="402929" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="2b2d30" />
-    <option name="GUTTER_BACKGROUND" value="181818" />
+    <option name="GUTTER_BACKGROUND" value="0d1117" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="549159" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="868a91" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="375fad" />
@@ -24,7 +24,7 @@
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="393b40" />
     <option name="LINE_NUMBERS_COLOR" value="4b5059" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a1a3ab" />
-    <option name="LOOKUP_COLOR" value="181818" />
+    <option name="LOOKUP_COLOR" value="d1117" />
     <option name="METHOD_SEPARATORS_COLOR" value="43454a" />
     <option name="MODIFIED_LINES_COLOR" value="375fad" />
     <option name="NOTIFICATION_BACKGROUND" value="25324d" />
@@ -139,7 +139,6 @@
       <value>
         <option name="FOREGROUND" value="548af7" />
         <option name="EFFECT_COLOR" value="548af7" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -388,6 +387,9 @@
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_CUSTOM_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="2fbaa3" />
@@ -417,7 +419,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1f1f1f" />
+        <option name="BACKGROUND" value="373b39" />
         <option name="ERROR_STRIPE_COLOR" value="5b786a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -443,7 +445,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="293c40" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
@@ -499,9 +501,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="32b8af" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -598,7 +598,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="43454a" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -686,7 +686,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="bcbec4" />
-        <option name="BACKGROUND" value="1f1f1f" />
+        <option name="BACKGROUND" value="0d1117" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -711,7 +711,6 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8bb33d" />
-        <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="73ad2b" />
       </value>
     </option>
